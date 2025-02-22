@@ -1,7 +1,8 @@
-# end-to-end-mental-bot
-'''bash
+# Create a new environment for the mental bot
 conda create --name mental-bot python=3.10 -y
-'''bash
+
+# Activate the environment
 conda activate mental-bot
-# install required packages
-pip install -r requirements.txt
+
+# Install required packages from requirements.txt
+pip install -r requirement.txt
